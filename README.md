@@ -64,7 +64,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 ## RoadMap
 
--[Roadmap](https://roadmap.sh/frontend) - For a well described step-by-step roadmap for front-end developers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Roadmap](https://roadmap.sh/frontend) - For a well described step-by-step roadmap for front-end developers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 ## Learning
 
